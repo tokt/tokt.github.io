@@ -1,5 +1,5 @@
 baseURL = "https://tokt.github.io"
-title = "Mars is no fun"
+title = "mto9"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
@@ -20,7 +20,7 @@ pygmentsCodefences = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Mars static site"
+description = "Monkey see, monkey do."
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -31,7 +31,7 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "MunifTanjim"
+holder = "Mars T."
 startYear = "2017"
 suffix = ""
 
@@ -58,10 +58,10 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-codepen = "mars"
+codepen = ""
 email = "marstoktonaliev@gmail.com"
 facebook = ""
-github = ""
+github = "tokt"
 instagram = ""
 linkedin = ""
 twitter = "marstokt"
@@ -80,7 +80,7 @@ page = "/:slug/"
 
 [[menu.main]]
 name = "Blog"
-weight = -700
+weight = -70
 identifier = "tokt"
 url = "https://tokt.github.io"
 
