@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations on mto9</title>
+    <link>https://mto9.com/tags/presentations/</link>
+    <description>Recent content in Presentations on mto9</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 30 Dec 2017 13:52:53 -0600</lastBuildDate>
+    
+	<atom:link href="https://mto9.com/tags/presentations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dowloading all presentations from Kubecon 2017 </title>
+      <link>https://mto9.com/post/kubecon/</link>
+      <pubDate>Sat, 30 Dec 2017 13:52:53 -0600</pubDate>
+      
+      <guid>https://mto9.com/post/kubecon/</guid>
+      <description>North American part of Kubecon 2017 was held in Austin, TX on December 4-6. Below are some useful links related to the event.
+https://lwn.net/Articles/741301/ - event report from LWN.
+https://lwn.net/Articles/741897/ - short overview of different container runtimes
+Videos from the conference are available on official CNCF YouTube channel
+KubeCon + CloudNativeCon North America schedule has links to presentations for about half of the talks.
+Below are the steps to download all available PDF:  lynx -cache=0 -dump -listonly https://kccncna17.</description>
+    </item>
+    
+  </channel>
+</rss>

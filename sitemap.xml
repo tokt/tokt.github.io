@@ -3,47 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tokt.github.io/post/hello-world/</loc>
+    <loc>https://mto9.com/post/kubecon/</loc>
+    <lastmod>2017-12-30T13:52:53-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mto9.com/post/hello-world/</loc>
     <lastmod>2017-12-29T23:21:13-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tokt.github.io/authors/</loc>
+    <loc>https://mto9.com/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tokt.github.io/categories/</loc>
+    <loc>https://mto9.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tokt.github.io/tags/hugo/</loc>
-    <lastmod>2017-12-29T23:21:13-06:00</lastmod>
+    <loc>https://mto9.com/categories/conferences/</loc>
+    <lastmod>2017-12-30T13:52:53-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tokt.github.io/categories/other/</loc>
-    <lastmod>2017-12-29T23:21:13-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tokt.github.io/post/</loc>
-    <lastmod>2017-12-29T23:21:13-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tokt.github.io/tags/</loc>
+    <loc>https://mto9.com/tags/hugo/</loc>
     <lastmod>2017-12-29T23:21:13-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tokt.github.io/</loc>
+    <loc>https://mto9.com/tags/kubecon/</loc>
+    <lastmod>2017-12-30T13:52:53-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mto9.com/categories/other/</loc>
     <lastmod>2017-12-29T23:21:13-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mto9.com/post/</loc>
+    <lastmod>2017-12-30T13:52:53-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mto9.com/tags/presentations/</loc>
+    <lastmod>2017-12-30T13:52:53-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mto9.com/tags/</loc>
+    <lastmod>2017-12-29T23:21:13-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mto9.com/</loc>
+    <lastmod>2017-12-30T13:52:53-06:00</lastmod>
     <priority>0</priority>
   </url>
   

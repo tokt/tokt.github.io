@@ -2,19 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on mto9</title>
-    <link>https://tokt.github.io/categories/</link>
+    <link>https://mto9.com/categories/</link>
     <description>Recent content in Categories on mto9</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://tokt.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mto9.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Conferences</title>
+      <link>https://mto9.com/categories/conferences/</link>
+      <pubDate>Sat, 30 Dec 2017 13:52:53 -0600</pubDate>
+      
+      <guid>https://mto9.com/categories/conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Other</title>
-      <link>https://tokt.github.io/categories/other/</link>
+      <link>https://mto9.com/categories/other/</link>
       <pubDate>Fri, 29 Dec 2017 23:21:13 -0600</pubDate>
       
-      <guid>https://tokt.github.io/categories/other/</guid>
+      <guid>https://mto9.com/categories/other/</guid>
       <description></description>
     </item>
     
